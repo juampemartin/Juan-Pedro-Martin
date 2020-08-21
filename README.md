@@ -29,7 +29,7 @@
 ---
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:newspaper: Github Stats</summary>
 
   [![Juan Pedro Martin's github stats](https://github-readme-stats.vercel.app/api?username=juampemartin)](https://github.com/juampemartin/github-readme-stats)
 
