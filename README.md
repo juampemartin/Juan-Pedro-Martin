@@ -31,7 +31,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="juampemartin's Github Stats" src="https://github-readme-stats.juampemartin.vercel.app/api?username=juampemartin&show_icons=true&hide_border=true" />
+  <img align="left" alt="juampemartin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=juampemartin)](https://github.com/juampemartin/github-readme-stats" />
 
 </details>
 
